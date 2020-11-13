@@ -11,3 +11,6 @@ Providing examples for training.
 
 ## How to Contribute
 Fork and clone.
+
+
+## Copyright
