@@ -10,7 +10,8 @@ Providing examples for training.
 ##Deployment
 
 ## How to Contribute
-Fork and clone.
+Fork and clone. Play Along
 
 
 ## Copyright
+Copyright message
