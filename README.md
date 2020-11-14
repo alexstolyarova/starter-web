@@ -14,6 +14,6 @@ Fork and clone. Play Along
 
 
 ## Copyright
-Copyright message
+Copyright message. All rights reserved.
 
 Adding a line here. Adding more.
